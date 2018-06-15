@@ -1,0 +1,13 @@
+ctrl+alt+click          go to definition
+shift+f12
+alt + f12
+f12
+
+https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
+https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion
+https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
+https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
+
+token: "bdbbda5a6c40d447d25a8b5e04c2f7eed127af35"
+gist: "5795847bc70c8111b3594e4c3ae87486"
