@@ -1,7 +1,22 @@
-ctrl+alt+click          go to definition
+Keyboard short-cut
+ctrl + b                toggle sidebar
+ctrl + `                open terminal
+ctrl + \                split editor
+
+ctrl + p                go-to-file => type ':' goto line
+ctrl + r                go-to-symbol
+
+
+ctrl+alt+click          go to definition // new windows
+ctrl+click              go to definition            
+
 shift+f12
 alt + f12
+ctrl + f2               select all instances keyword
 f12
+
+maybe useful laster
+ctrl + r        switch workspaces
 
 https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion
